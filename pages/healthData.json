@@ -1,109 +1,122 @@
 [
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/cormorant-island-health-centre",
-    "attention": "Life-threatening cases seen first",
-    "location": "Alert Bay, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Cormorant Island Emergency Department",
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/cormorant-island-health-centre",
+    "location": "Alert Bay, BC",
     "hours": "Open daily from 8:00 a.m. to 7:00 p.m.",
-    "wait-time": "OPEN"
+    "wait-time": "OPEN",
+    "wait-time-min": 0,
+    "attention": "Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/north-island-hospital-campbell-river-district",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Campbell River, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "North Island Hospital  - Campbell River &amp; District Emergency Department",
-    "wait-time": "2 hours 58 minutes"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/north-island-hospital-campbell-river-district",
+    "location": "Campbell River, BC",
+    "wait-time": "2 hours 58 minutes",
+    "wait-time-min": 178,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/north-island-hospital-comox-valley",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Courtenay, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "North Island Hospital - Comox Valley Emergency Department",
-    "wait-time": "3 hours 30 minutes"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/north-island-hospital-comox-valley",
+    "location": "Courtenay, BC",
+    "wait-time": "3 hours 30 minutes",
+    "wait-time-min": 210,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/port-hardy-hospital",
-    "attention": "Life-threatening cases seen first",
-    "location": "Port Hardy, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Port Hardy Hospital Emergency Department",
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/port-hardy-hospital",
+    "location": "Port Hardy, BC",
     "hours": "Open daily from 8:00 a.m. to 5:00 p.m.",
-    "wait-time": "OPEN"
+    "wait-time": "OPEN",
+    "wait-time-min": 0,
+    "attention": "Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/port-mcneill-hospital",
-    "attention": "Life-threatening cases seen first",
-    "location": "Port McNeill, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Port McNeill Hospital Emergency Department",
-    "wait-time": "OPEN"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/port-mcneill-hospital",
+    "location": "Port McNeill, BC",
+    "wait-time": "OPEN",
+    "wait-time-min": 0,
+    "attention": "Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/cowichan-district-hospital",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Duncan, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Cowichan District Hospital ED",
-    "wait-time": "4 hours 4 minutes"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/cowichan-district-hospital",
+    "location": "Duncan, BC",
+    "wait-time": "4 hours 4 minutes",
+    "wait-time-min": 244,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/nanaimo-regional-general-hospital",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Nanaimo, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Nanaimo Regional General Hospital ED",
-    "wait-time": "5 hours 30 minutes"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/nanaimo-regional-general-hospital",
+    "location": "Nanaimo, BC",
+    "wait-time": "5 hours 30 minutes",
+    "wait-time-min": 330,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/tofino-general-hospital",
-    "attention": "Life-threatening cases seen first",
-    "location": "Tofino, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Tofino General Hospital",
-    "wait-time": "OPEN"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/tofino-general-hospital",
+    "location": "Tofino, BC",
+    "wait-time": "OPEN",
+    "wait-time-min": 0,
+    "attention": "Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/west-coast-general-hospital",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Port Alberni, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "West Coast General Hospital ED",
-    "wait-time": "5 hours 56 minutes"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/west-coast-general-hospital",
+    "location": "Port Alberni, BC",
+    "wait-time": "5 hours 56 minutes",
+    "wait-time-min": 356,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/lady-minto-gulf-islands-hospital",
-    "attention": "Life-threatening cases seen first",
-    "location": "Salt Spring Island, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Lady Minto / Gulf Island Hospital Emergency Department",
-    "wait-time": "OPEN"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/lady-minto-gulf-islands-hospital",
+    "location": "Salt Spring Island, BC",
+    "wait-time": "OPEN",
+    "wait-time-min": 0,
+    "attention": "Life-threatening cases seen first"
   },
   {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/royal-jubilee-hospital-rjh",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Victoria, BC",
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Royal Jubilee Hospital ED",
-    "wait-time": "7 hours 43 minutes"
-  },
-  {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/saanich-peninsula-hospital",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
-    "location": "Saanichton, BC",
-    "name": "Saanich Peninsula Hospital ED",
-    "hours": "Open daily from 7:00 a.m. to 10:00 p.m.",
-    "wait-time": "4 hours 7 minutes"
-  },
-  {
-    "timestamp": "2025-07-03T22:15:06.710742Z",
-    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/victoria-general-hospital-vgh",
-    "attention": "Most people should be seen sooner  Life-threatening cases seen first",
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/royal-jubilee-hospital-rjh",
     "location": "Victoria, BC",
+    "wait-time": "7 hours 43 minutes",
+    "wait-time-min": 463,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
+  },
+  {
+    "timestamp": "2025-07-03T22:52:22.200605Z",
+    "name": "Saanich Peninsula Hospital ED",
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/saanich-peninsula-hospital",
+    "location": "Saanichton, BC",
+    "hours": "Open daily from 7:00 a.m. to 10:00 p.m.",
+    "wait-time": "4 hours 7 minutes",
+    "wait-time-min": 247,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
+  },
+  {
+    "timestamp": "2025-07-03T22:52:22.200605Z",
     "name": "Victoria General Hospital ED",
-    "wait-time": "8 hours 39 minutes"
+    "url": "https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/victoria-general-hospital-vgh",
+    "location": "Victoria, BC",
+    "wait-time": "8 hours 39 minutes",
+    "wait-time-min": 519,
+    "attention": "Most people should be seen sooner  Life-threatening cases seen first"
   }
 ]
